@@ -1,0 +1,7 @@
+**Interview Strategies**
+
+1) Understand the Problem
+2) Explore Concrete Examples
+3) Break it Down
+4) Solive/simplify
+5) Look Back and Refactor
