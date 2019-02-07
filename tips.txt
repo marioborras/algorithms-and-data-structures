@@ -5,3 +5,18 @@
 3) Break it Down
 4) Solive/simplify
 5) Look Back and Refactor
+
+
+**Problem Solving Patterns**
++ Frequency Counter
++ Multiple Pointers
++ Sliding Window
++ Divide and Conquer
++ Greedy Algorithms
++ Backtracking
+
+
+**Sliding Window**
+This pattern involves creating a window which can either be an array or number from one position to another.
+Depending on a certainc ondition, the window wither increases or closes(and a new window is created)
+Very useful for keeping track of a subset of data in an array/string etc.
