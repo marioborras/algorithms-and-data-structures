@@ -27,3 +27,15 @@ This pattern involves dividing a data set into smaller chunks and then repating 
 subset of data. This pattern can tremendously decrease time complexity.
 
 
+**What is Recursion?**
+A process (a function in our case) that calls itself.
+  Two essential parts of a recursive function:
+  -Base Case: The condition when the recursion ends.
+  -Different Input
+
+  **Pure Recursion Tips**
+  - For arrays, use methods like slice, the spread, and concat that make
+  copies of arrays so you do not mutate them.
+  -Remember that strings are immutable so you will need to use methods like slice, subst, 
+  or substring to make copies of strings.
+  -To Make copies of objects use Object.assign, or the spread operator.
